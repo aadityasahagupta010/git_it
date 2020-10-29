@@ -1,1 +1,4 @@
-phone
+1-phone
+2-
+3-touchscree
+4-speakerphone
